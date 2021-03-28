@@ -1,0 +1,21 @@
+div{
+  width:100px;
+  height:100px;
+  border:1px solid red;
+}
+
+img {
+  border:10px groove orangered;
+}
+
+.catone {
+border:10px dashed orangered;
+}
+
+.cattwo {
+  border:10px dotted orangered;
+}
+
+.catthree {
+  border:10px double orangered;
+}
